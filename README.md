@@ -1,4 +1,3 @@
-# alexbaret7-icloud.com
 A simple hangman game built with python. From a Pset in MIT OCW course 6.0001.
 
 Main Game: Hangman with no hints.
